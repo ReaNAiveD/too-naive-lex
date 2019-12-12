@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81e276f8-e56e-4f29-aaf1-4b2684336980" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uk9DyQdUvRYypzAqsZU3OO3JEq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\nice-\Code\lex" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="FileResolver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naived.lexResolver.lexResolver.FileResolver" />
+      <module name="lex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naived.lexResolver.lexResolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naived.lexResolver.FileResolver" />
+      <module name="lex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naived.lexResolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NfaNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naived.lexResolver.nfa.NfaNode" />
+      <module name="lex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naived.lexResolver.nfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naived.lexResolver.reParser.ReParser" />
+      <module name="lex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naived.lexResolver.reParser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naived.lexResolver.main" />
+      <module name="lex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naived.lexResolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.NfaNode" />
+        <item itemvalue="Application.ReParser" />
+        <item itemvalue="Application.FileResolver (1)" />
+        <item itemvalue="Application.FileResolver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e276f8-e56e-4f29-aaf1-4b2684336980" name="Default Changelist" comment="" />
+      <created>1575889610304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575889610304</updated>
+      <workItem from="1575889614216" duration="59955000" />
+      <workItem from="1576126768502" duration="27783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="379" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575912668423">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="773" y="379" key="#com.intellij.fileTypes.FileTypeChooser/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1575912668423" />
+    <state x="830" y="286" key="#com.intellij.ide.util.MemberChooser" timestamp="1576165509407">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="830" y="286" key="#com.intellij.ide.util.MemberChooser/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576165509407" />
+    <state x="762" y="501" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576155689011">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="762" y="501" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576155689011" />
+    <state x="755" y="323" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1575896721606">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="755" y="323" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1575896721606" />
+    <state x="935" y="329" key="#xdebugger.XInspectDialog" timestamp="1576088212185">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="935" y="329" key="#xdebugger.XInspectDialog/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576088212185" />
+    <state x="779" y="437" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575895939352">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="779" y="437" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1575895939352" />
+    <state width="403" height="466" key="DebuggerActiveHint" timestamp="1576161933689">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="403" height="466" key="DebuggerActiveHint/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576161933689" />
+    <state width="2005" height="599" key="GridCell.Tab.0.bottom" timestamp="1576176725521">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="599" key="GridCell.Tab.0.bottom/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725521" />
+    <state width="2005" height="599" key="GridCell.Tab.0.center" timestamp="1576176725521">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="599" key="GridCell.Tab.0.center/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725521" />
+    <state width="2005" height="599" key="GridCell.Tab.0.left" timestamp="1576176725521">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="599" key="GridCell.Tab.0.left/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725521" />
+    <state width="2005" height="599" key="GridCell.Tab.0.right" timestamp="1576176725521">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="599" key="GridCell.Tab.0.right/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725521" />
+    <state width="2005" height="392" key="GridCell.Tab.1.bottom" timestamp="1576176725517">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.bottom/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725517" />
+    <state width="2005" height="392" key="GridCell.Tab.1.center" timestamp="1576176725517">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.center/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725517" />
+    <state width="2005" height="392" key="GridCell.Tab.1.left" timestamp="1576176725517">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.left/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725517" />
+    <state width="2005" height="392" key="GridCell.Tab.1.right" timestamp="1576176725517">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.right/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1576176725517" />
+    <state x="505" y="151" key="SettingsEditor" timestamp="1575913161126">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="505" y="151" key="SettingsEditor/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1575913161126" />
+    <state x="780" y="420" key="cloudConfig.SelfSettingsDialog" timestamp="1575913146869">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="780" y="420" key="cloudConfig.SelfSettingsDialog/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1575913146869" />
+    <state x="1134" y="283" width="538" height="482" key="extract.method.dialog" timestamp="1575897384982">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1134" y="283" width="538" height="482" key="extract.method.dialog/2560.425.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1575897384982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/naived/lexResolver/lexResolver/FileResolver.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="resolver" />
+        <watch expression="lexSource.rules.get(96)" />
+        <watch expression="lexSource.rules.get(96)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
